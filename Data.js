@@ -17,6 +17,11 @@ let allMusic = [
       img: "music-3",
       src: "music-3"
     },
-  
+    {
+    name: "Thiên lý ơi",
+      artist: "J97",
+      img: "music-4",
+      src: "music-4"
+  }
   ];
   
